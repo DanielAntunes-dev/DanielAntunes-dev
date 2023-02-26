@@ -23,7 +23,7 @@
  
  Daniel, 35 anos, em transição de carreira, Apaixonado por desenvolvimento, por games e tecnologia. Atualmente sou Graduando em Analise e desenvolvimento de sistemas pela Faculdade UVV e estou trilhando o caminho para me torar um Desenvolvedor Full Stack. Atualmente focado no desenvolvimento Back-end.
 
-Tenho fortes conhecimentos em HTML, CSS, Javascript, TypeScript e Nodejs. Atualmente solidificando o estudo de .
+Tenho fortes conhecimentos em HTML, CSS, Javascript, TypeScript e Nodejs. Atualmente solidificando o estudo de JAVA.
 
 Estudante de Backend pelas plataformas Gama Academy (concluído e com certificado), OneBitCode e DIO.
 
