@@ -21,7 +21,7 @@
   <img allign="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
  </div></br>
  
- Daniel, 35 anos, em transição de carreira, Apaixonado por desenvolvimento, por games e tecnologia. Atualmente sou Graduando em Analise e desenvolvimento de sistemas pela Faculdade UVV e estou trilhando o caminho para me torar um Desenvolvedor Full Stack. Atualmente focado no desenvolvimento Back-end.
+ Daniel Antunes, em transição de carreira, Apaixonado por desenvolvimento, por games e tecnologia. Atualmente sou Graduando em Analise e desenvolvimento de sistemas pela Faculdade UVV e estou trilhando o caminho para me torar um Desenvolvedor Full Stack. Atualmente focado no desenvolvimento Back-end.
 
 Tenho fortes conhecimentos em HTML, CSS, Javascript, TypeScript e Nodejs. Atualmente solidificando o estudo de JAVA.
 
