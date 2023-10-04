@@ -21,10 +21,10 @@
   <img allign="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
  </div></br>
  
- Daniel Antunes, em transição de carreira, Apaixonado por desenvolvimento, por games e tecnologia. Atualmente sou Graduando em Desenvolvimento Full Stack pela Faculdade Estácio de Sá e estou trilhando o caminho para me torar um Desenvolvedor Full Stack. Atualmente focado no desenvolvimento Back-end.
+Meu nome é Daniel Antunes e estou atualmente em transição de carreira, motivado pela minha paixão pelo desenvolvimento, jogos e tecnologia. Estou em busca de oportunidades para consolidar minha jornada como Desenvolvedor Full Stack, com um foco predominante no desenvolvimento Backend.
 
-Tenho fortes conhecimentos em HTML, CSS, Javascript, TypeScript e Nodejs. Atualmente solidificando o estudo de JAVA.
+Atualmente, estou cursando Desenvolvimento Full Stack na Faculdade Estácio de Sá, onde estou adquirindo uma base sólida nesse campo. Possuo habilidades avançadas em HTML, CSS, JavaScript, TypeScript e Node.js, e estou comprometido em aprimorar meu conhecimento em Java para ampliar meu escopo de habilidades.
 
-Estudante de Backend pelas plataformas Gama Academy (concluído e com certificado), OneBitCode e DIO.
+Busco sempre aprimorar minha formação através de plataformas educacionais respeitáveis, como a Gama Academy (onde concluí um curso e obtive certificação), OneBitCode e DIO, investindo constantemente em aprendizado e crescimento profissional.
 
-Busco minha primeira oportunidade no mercado Tech como como back-End nível Estagiário ( ou Junior ).
+Estou ansioso para ingressar no mercado de tecnologia e contribuir ativamente como um Desenvolvedor Backend, seja em um papel de estágio ou júnior, onde eu possa aplicar meu conhecimento e paixão pela programação de forma prática e eficaz.
