@@ -27,4 +27,4 @@ Atualmente, estou cursando Desenvolvimento Full Stack na Faculdade Estácio de S
 
 Busco sempre aprimorar minha formação através de plataformas educacionais respeitáveis, como a Gama Academy (onde concluí um curso e obtive certificação), OneBitCode e DIO, investindo constantemente em aprendizado e crescimento profissional.
 
-Estou ansioso para ingressar no mercado de tecnologia e contribuir ativamente como um Desenvolvedor Backend, seja em um papel de estágio ou júnior, onde eu possa aplicar meu conhecimento e paixão pela programação de forma prática e eficaz.
+Estou ansioso para ingressar no mercado de tecnologia e contribuir ativamente como um Desenvolvedor, seja em um papel de estágio ou júnior, onde eu possa aplicar meu conhecimento e paixão pela programação de forma prática e eficaz.
