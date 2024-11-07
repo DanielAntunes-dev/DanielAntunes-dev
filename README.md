@@ -21,6 +21,14 @@
   <img allign="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
  </div></br>
  
-Sou um estudante dedicado de Desenvolvimento Full Stack, atualmente no 3º período da Estácio de Sá, com uma base em HTML, CSS, JavaScript, React, Node.js, Python e SQL. Estou expandindo minhas habilidades através do Bootcamp de Analista de Dados da SoulCode, onde estou aprimorando minha compreensão de análise de dados e ciência de dados.
+`Sou um Analista de Dados Júnior apaixonado por explorar e resolver problemas complexos através da análise de dados. Com uma sólida formação em análise de dados e experiência prática em projetos variados, busco transformar dados em insights acionáveis que impulsionam decisões estratégicas.
+Minha expertise inclui: <br><br>
+<b>Análise de Dados:</b> Experiência com ferramentas poderosas como Python, PySpark, e SQL para manipulação, limpeza, e análise de grandes volumes de dados.<br>            
+<b>Visualização de Dados:</b> Criação de dashboards e relatórios interativos utilizando Power BI e Looker Studio, tornando dados complexos acessíveis e compreensíveis.<br>            
+<b>Machine Learning e IA:</b> Conhecimento em fundamentos de ML e IA, aplicando técnicas de aprendizado supervisionado e não supervisionado para resolver desafios de negócios.<br>            
+<b>Computação em Nuvem:</b> Experiência em trabalhar com Google Cloud Platform (GCP) e BigQuery para processamento e análise de dados em escala.
 
-Apaixonado por tecnologia e sempre em busca de novas oportunidades para aplicar e desenvolver minhas habilidades, estou focado em transitar para uma carreira como Desenvolvedor Full Stack. Tenho experiência prática em projetos acadêmicos e pessoais, onde busco implementar as melhores práticas de desenvolvimento e codificação limpa..
+<br><br>Além disso, estou sempre em busca de aprendizado contínuo, participando de cursos, bootcamps e desenvolvendo projetos pessoais que me permitem aplicar novas tecnologias e metodologias em situações do mundo real. Meu objetivo é crescer como profissional, contribuir para o sucesso das organizações com as quais trabalho e ajudar a construir soluções tecnológicas inovadoras.
+
+Estou disponível para colaborações, projetos freelance, e oportunidades que me permitam aplicar e expandir minhas habilidades em análise de dados. Conecte-se comigo para discutirmos como posso agregar valor ao seu projeto ou organização.`
+            
